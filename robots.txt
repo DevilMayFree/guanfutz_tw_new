@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /search.php
+Crawl-delay: 10
+Sitemap: https://www.rw-advisory.com/sitemap.xml
